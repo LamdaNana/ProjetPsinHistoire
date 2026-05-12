@@ -7,3 +7,5 @@ L’objectif était de créer une histoire interactive de type "dont vous êtes 
 Le projet contient 20 pages HTML, dont une page index.html, ainsi qu’une histoire originale imaginée avec plusieurs chemins possibles et différentes fins selon les décisions prises par le joueur.
 
 Ce travail m’a permis de découvrir l’organisation d’un projet, la gestion de fichiers liés entre eux ainsi que l’utilisation de GitHub pour le versionnage et le partage du projet.
+
+👉[Lien vers le site](https://lamdanana.github.io/ProjetPsinHistoire/)
